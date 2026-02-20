@@ -1,7 +1,11 @@
 public class PracticeProblem {
 
-// Feb 12 2026, Benson Zheng
-// Coding shapes using new lines
+/**
+* File Name: Lesson 1.3 - Strings
+* Author: Mr. Kalisz
+* Date Created: Feb 8, 2023
+* Date Last Modified: Feb 20, 2026
+*/
 	public static void main(String args[]) {
 		q1();
 		q2();
